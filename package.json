@@ -1,5 +1,5 @@
 {
-  "homepage": "orlandoqwesi.github.io/kids_school",
+  "homepage": "https://orlandoqwesi.github.io/kids_school",
   "name": "kids_school",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
